@@ -1,0 +1,11 @@
+---
+title: "即刻 - AI Agent Markdown 工具集合"
+source: "https://web.okjike.com/u/695ACB1F-CBA8-4896-B105-4FE7981E4300/post/69da0f4a0cdc22382e37831b"
+author:
+published:
+created: 2026-04-13
+description: "聊AI，聊科技的人都在这里"
+tags:
+  - "clippings"
+---
+前两天找到一个叫 awesome-design-md 的仓库，把 Stripe、Figma、Notion 等 55 家大厂的设计规范全部提取成了 Markdown 文件。配色、排版、组件样式、布局原则，一个文件写完。丢进项目根目录，Agent 生成的 UI 就能匹配对应品牌的风格。4.3k stars，实测确实有用。 沿着这条线一路搜下去，发现各个领域的人都在做把自己的专业知识写成 Markdown，喂给 Agent。 下面按类别整理我找到的所有github 项目，附地址，方便直接用。 1、agents.md 是目前最通用的 Agent 指令格式，放在项目根目录所有主流 Agent 都可以用， 地址： [agents.md](https://agents.md/) 2、llms.txt 解决的是另一个问题：让网站对 Agent 可读。类似 robots.txt 是给搜索引擎看的，llms.txt 是给大模型看的，放在网站根目录，用 Markdown 描述网站内容结构。目前已有 900+ 网站实现了这个标准。 目录站： [llmstxthub.com](https://llmstxthub.com/) 3、awesome-design-md，55+ 大厂设计规范，4.3k stars。每个文件包含完整的设计系统：配色、排版、组件、布局、阴影、响应式行为、设计禁区。丢进项目就能用。 地址： [github.com](https://github.com/VoltAgent/awesome-design-md) 4、taste-skill，7k+ stars，解决 Agent 生成前端千篇一律的问题。提供三个旋钮：设计冒险度、动画强度、视觉密度，可以从1 到 10 调节程度。 地址： [github.com](https://github.com/Leonxlnx/taste-skill) 5、Superpowers，121k stars，目前这个领域 star 最多的项目。一套完整的软件开发方法论，用 Markdown 编码成 Agent 必须执行的工作流。Agent 如果写代码之前没写测试，代码会被自动删掉。设计评审、分支管理、代码审查全都有对应的 skill 文件。 地址： [github.com](https://github.com/obra/superpowers) 6、GStack，YC CEO Garry 开源的Agent配置。28 个 slash 命令，每个激活一种"认知角色"：CEO 挑战产品方向，设计师检查 UI 品质，工程师锁定架构，测试打开真浏览器跑测试，安全官做威胁建模。他用这套配置 60 天写了 60 万行生产代码。 地址： [github.com](https://github.com/garrytan/gstack) 7、agency-agents，52k+ stars，147 个职业角色模板，覆盖前端、后端、DevOps、设计、产品、内容策略、营销、社区运营等 12 个部门。每个角色是一个结构化 Markdown，包含职责定义、工作流程、交付物模板和质量标准。 英文版： [github.com](https://github.com/msitarzewski/agency-agents) 中文版： [github.com](https://github.com/jnMetaCode/agency-agents-zh) 8、Product-Manager-Skills，46 个产品经理技能模块。JTBD 分析、用户故事地图、优先级排序、竞品分析、发现访谈、定位声明。 地址： [github.com](https://github.com/deanpeters/Product-Manager-Skills) 9、AiCMO-Marketin，营销和运营方向，按职能模块组织：品牌策略、内容营销、SEO、社媒运营、广告投放、用户增长、数据分析。相当于给 Agent 装了一整个营销部门的脑子。 地址： [github.com](https://github.com/AICMO/AiCMO-Marketing-Prompt-Collection) 10、codebase-to-course，把任意代码仓库变成一个单页交互式 HTML 教程。带动画可视化、嵌入式测验、代码和白话对照。面向那些用 AI 写代码但想搞清楚项目到底怎么跑起来的人。 地址： [github.com](https://github.com/zarazhangrui/codebase-to-course) 以前觉得"让 AI 变聪明"是模型公司的事，现在发现每个人都能做。把自己领域的专业知识结构化，写成一个.md 文件，丢进去，Agent 就懂了。这件事正在各个职业同时发生，而且速度比我预想的快得多。

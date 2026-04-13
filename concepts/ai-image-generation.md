@@ -14,17 +14,17 @@ AI 图像生成领域已形成多 provider 竞争格局。基于 [[baoyu-skills]
 
 ## Provider 对比
 
-| Provider | 代表模型 | 参考图支持 | 特点 |
-|----------|----------|------------|------|
-| **OpenAI** | gpt-image-1.5 | ✅ | 质量稳定，Azure 部署可选 |
-| **Google** | gemini-3-pro-image-preview | ✅ | 多模态原生支持 |
-| **OpenRouter** | google/gemini-3.1-flash-image-preview | ✅ | 统一入口，多模型可选 |
-| **DashScope (阿里通义万相)** | qwen-image-2.0-pro | ✅ | 中文渲染强，自定义尺寸 |
-| **Z.AI (智谱 GLM)** | glm-image | ❌ | 中文海报/图表优秀 |
-| **MiniMax** | image-01 / image-01-live | ✅ (人物一致性) | 低延迟版本可选 |
-| **Jimeng (即梦)** | jimeng_t2i_v40 | ❌ | 火山引擎 |
-| **Seedream (豆包)** | doubao-seedream-5.0 | ✅ (5.0/4.5/4.0) | 字节系 |
-| **Replicate** | google/nano-banana-2 等 | ✅ | 开源模型托管 |
+| Provider               | 代表模型                                  | 参考图支持           | 特点              |
+| ---------------------- | ------------------------------------- | --------------- | --------------- |
+| **OpenAI**             | gpt-image-1.5                         | ✅               | 质量稳定，Azure 部署可选 |
+| **Google**             | gemini-3-pro-image-preview            | ✅               | 多模态原生支持         |
+| **OpenRouter**         | google/gemini-3.1-flash-image-preview | ✅               | 统一入口，多模型可选      |
+| **DashScope (阿里通义万相)** | qwen-image-2.0-pro                    | ✅               | 中文渲染强，自定义尺寸     |
+| **Z.AI (智谱 GLM)**      | glm-image                             | ❌               | 中文海报/图表优秀       |
+| **MiniMax**            | image-01 / image-01-live              | ✅ (人物一致性)       | 低延迟版本可选         |
+| **Jimeng (即梦)**        | jimeng_t2i_v40                        | ❌               | 火山引擎            |
+| **Seedream (豆包)**      | doubao-seedream-5.0                   | ✅ (5.0/4.5/4.0) | 字节系             |
+| **Replicate**          | google/nano-banana-2 等                | ✅               | 开源模型托管          |
 
 ## 市场趋势
 1. **多模态融合**: 图像生成逐渐成为 LLM 的内置能力（如 GPT-4o、Gemini）

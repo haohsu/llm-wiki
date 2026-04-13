@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "678f6895dda5ff48",
+    "type": "split",
+    "children": [
+      {
+        "id": "851fb3c86a072dac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41a44742f66cf3f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/articles/即刻-ai-agent-markdown-tools-2026-04-13.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "即刻-ai-agent-markdown-tools-2026-04-13"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6747e953d67bd0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a09fe7031222bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a8d4266c7c9b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "14cce2cf7ff60e4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "74c00973ccae2008",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69157eeec757eb47",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d09b0a33c8f202f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14a0d1e319409896",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/claude-code-skills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "claude-code-skills 的反向链接列表"
+            }
+          },
+          {
+            "id": "bf16188d0691fd9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "concepts/claude-code-skills.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "claude-code-skills 的出链列表"
+            }
+          },
+          {
+            "id": "9cbb21aecb7cef15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bd98ca30a1496c4d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "92aa0fbd340ca8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/claude-code-skills.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "claude-code-skills 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "41a44742f66cf3f0",
+  "lastOpenFiles": [
+    "concepts/claude-code-skills.md",
+    "entities/codebase-to-course.md",
+    "entities/product-manager-skills.md",
+    "entities/agents-md.md",
+    "entities/aicmo-marketing.md",
+    "entities/superpowers.md",
+    "entities/awesome-design-md.md",
+    "entities/llms-txt.md",
+    "entities/gstack.md",
+    "entities/agency-agents.md",
+    "concepts/knowledge-as-code.md",
+    "concepts/agent-instruction-standards.md",
+    "entities/taste-skill.md",
+    "raw/articles/即刻-ai-agent-markdown-tools-2026-04-13.md",
+    "entities/jim-liu.md",
+    "entities/baoyu-skills.md",
+    "concepts/ai-image-generation.md",
+    "raw/articles/baoyu-skills-readme-2026-04-12.md",
+    "baoyu-skills.md",
+    "log.md",
+    "SCHEMA.md",
+    "index.md",
+    "README.md"
+  ]
+}
