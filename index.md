@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-14 | Total pages: 20
+> Last updated: 2026-04-14 | Total pages: 28
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -18,8 +18,18 @@
 - [[superpowers]] — 完整软件开发方法论编码为 Agent 工作流，121k stars
 - [[taste-skill]] — 前端设计参数旋钮（冒险度/动画/密度），7k+ stars
 - [[andrej-karpathy-skills]] — 基于 Andrej Karpathy 观察的 Claude Code 行为指南
+- [[openai-harness-engineering]] — OpenAI 百万行代码 Harness 实验（零行手写，10x 速度）
+- [[anthropic-agent-harness]] — Anthropic 长时运行 Agent、上下文工程、多 Agent 研究系统
+- [[langchain-agent-harness]] — LangChain Agent = Model + Harness 公式，Top30→Top5 实验
+- [[martin-fowler-harness-engineering]] — Thoughtworks 对 Harness Engineering 的权威评析
+- [[phil-schmid-agent-harness]] — Phil Schmid 预言 Agent Harness 定义 2026 年
+- [[multica]] — 开源 managed agents 平台，Agent 作为团队成员管理（11.5k stars）
 
 ## Concepts
+- [[harness-engineering]] — Harness Engineering 核心概念：设计 Agent 运行环境的工程范式
+- [[harness-engineering-components]] — Harness 四大支柱：分层上下文、Agent 专业化、持久记忆、背压
+- [[harness-engineering-vs-context-engineering]] — Prompt/Context/Harness 三层概念辨析
+- [[agent-harness-patterns]] — Agent Harness 实践模式：长时运行、多 Agent 并行、五大战术组件
 - [[agent-instruction-standards]] — agents.md 与 llms.txt 标准对比分析
 - [[ai-image-generation]] — 9 大 AI 图像生成 provider 对比与市场趋势
 - [[claude-code-skills]] — Claude Code 技能/插件生态系统分析

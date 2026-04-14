@@ -92,3 +92,28 @@
 - 剩余问题:
   1. 页面过大: ai-knowledge-graph-project-innovation 有 205 行，建议拆分为子主题
   2. README.md 不是 wiki 页面，可考虑从孤立页面检查中排除
+
+## [2026-04-14] ingest | Harness Engineering 文章集（20篇）
+- Source: /mnt/d/xuhao/vault/AIHarness/raw/（20 篇文章）
+- 主题: Harness Engineering — 围绕 AI Agent 设计约束、反馈、文档、生命周期管理的工程范式
+- Created entities:
+  - entities/openai-harness-engineering.md — OpenAI 百万行代码实验（零行手写，5个月，~1500 PR）
+  - entities/anthropic-agent-harness.md — Anthropic 长时运行 Agent + 上下文工程 + 多 Agent 研究 + 并行编译器
+  - entities/langchain-agent-harness.md — LangChain Agent=Model+Harness 公式，Top30→Top5 实验
+  - entities/martin-fowler-harness-engineering.md — Thoughtworks 权威评析，Feedforward+Feedback 模型
+  - entities/phil-schmid-agent-harness.md — Phil Schmid 2026年1月预言 Agent Harness 定义全年
+- Created concepts:
+  - concepts/harness-engineering.md — 核心概念：定义、时间线、工程师角色转变、实验数据
+  - concepts/harness-engineering-components.md — 四大支柱：分层上下文、Agent 专业化、持久记忆、背压
+  - concepts/harness-engineering-vs-context-engineering.md — Prompt/Context/Harness 三层辨析
+  - concepts/agent-harness-patterns.md — 实践模式：长时运行、多 Agent、五大战术组件
+- Cross-references: 9 pages interlinked via [[wikilinks]]
+- Total wiki pages: 27 (was 20)
+
+## [2026-04-14] ingest | multica (github.com/multica-ai/multica)
+- Source: GitHub README (11.5k stars, Go + TypeScript)
+- Raw saved: raw/articles/multica-readme-2026-04-14.md
+- Created:
+  - entities/multica.md — 开源 managed agents 平台，Agent 作为团队成员管理
+- Cross-references: 1 page linked to harness-engineering, agent-harness-patterns, claude-code-skills
+- Total wiki pages: 28 (was 27)
