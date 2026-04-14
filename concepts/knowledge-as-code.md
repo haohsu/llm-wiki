@@ -21,7 +21,7 @@ sources: [raw/articles/即刻-ai-agent-markdown-tools-2026-04-13.md]
 
 | 方向 | 代表项目 | 说明 |
 |------|----------|------|
-| Agent 指令标准 | [[agents.md]], [[llms-txt]] | 统一格式让 Agent 理解项目/网站 |
+| Agent 指令标准 | [[agents-md]], [[llms-txt]] | 统一格式让 Agent 理解项目/网站 |
 | 设计系统 | [[awesome-design-md]] | 55+ 大厂设计规范 Markdown 化 |
 | 前端风格控制 | [[taste-skill]] | 可调节的设计参数旋钮 |
 | 软件开发方法论 | [[superpowers]] | 编码为 Agent 必须执行的工作流 |

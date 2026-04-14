@@ -38,8 +38,14 @@ Claude Code 的技能/插件系统，允许开发者扩展 Claude Code 的能力
 
 ## 竞品/同类
 - [[baoyu-skills]] — 当前最流行的 Claude Code 技能集合（14K+ stars）
+- [[andrej-karpathy-skills]] — 基于 Karpathy 观察的 Claude Code 行为指南
 - Hermes Agent Skills — 类似架构但更侧重 CLI agent 场景
+
+## 创新应用
+Claude Code 技能可结合知识图谱实现高级应用场景，详见 [[ai-knowledge-graph-project-innovation]] 中的 7 个创新方案。
 
 ## 相关页面
 - [[baoyu-skills]] — 标杆实现
 - [[jim-liu]] — 生态关键人物
+- [[andrej-karpathy-skills]] — 基于 Karpathy 观察的 Claude Code 行为指南
+- [[karpathy-inspired-claude-code-guidelines]] — 四个原则的详细分析

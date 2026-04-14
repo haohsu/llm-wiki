@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-13 | Total pages: 16
+> Last updated: 2026-04-14 | Total pages: 20
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -17,12 +17,15 @@
 - [[product-manager-skills]] — 46 个产品经理技能模块（JTBD、用户故事等）
 - [[superpowers]] — 完整软件开发方法论编码为 Agent 工作流，121k stars
 - [[taste-skill]] — 前端设计参数旋钮（冒险度/动画/密度），7k+ stars
+- [[andrej-karpathy-skills]] — 基于 Andrej Karpathy 观察的 Claude Code 行为指南
 
 ## Concepts
 - [[agent-instruction-standards]] — agents.md 与 llms.txt 标准对比分析
 - [[ai-image-generation]] — 9 大 AI 图像生成 provider 对比与市场趋势
 - [[claude-code-skills]] — Claude Code 技能/插件生态系统分析
 - [[knowledge-as-code]] — 知识结构化为 Markdown 喂给 Agent 的趋势总览
+- [[ai-knowledge-graph-project-innovation]] — AI + 知识图谱驱动项目创新方案（7 个场景 + 路线图）
+- [[karpathy-inspired-claude-code-guidelines]] — 基于 Karpathy 观察的 Claude Code 四大行为原则
 
 ## Comparisons
 

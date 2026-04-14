@@ -3,7 +3,7 @@ title: agents.md
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [agent, standard]
+tags: [agent, tool]
 sources: [raw/articles/即刻-ai-agent-markdown-tools-2026-04-13.md]
 ---
 

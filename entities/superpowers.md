@@ -23,7 +23,7 @@ sources: [raw/articles/即刻-ai-agent-markdown-tools-2026-04-13.md]
 
 ## 激进的设计理念
 
-与 [[agents.md]] 的"建议性"指令不同，Superpowers 是**强制性**的——Agent 必须遵循预定义的工作流，否则产出会被拒绝。这相当于把人类的 best practices 变成了机器可执行的约束。
+与 [[agents-md]] 的"建议性"指令不同，Superpowers 是**强制性**的——Agent 必须遵循预定义的工作流，否则产出会被拒绝。这相当于把人类的 best practices 变成了机器可执行的约束。
 
 ## 与生态的关系
 
