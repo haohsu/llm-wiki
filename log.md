@@ -141,6 +141,14 @@
   - concepts/agents-as-customers.md — Agent 作为独立客户实体的趋势
 - Cross-references: 2 pages interlinked
 - Total wiki pages: 39 (was 37)
+## [2026-05-01] ingest | Huashu Design（花束设计）
+- Source: https://github.com/alchaincyf/huashu-design
+- Stars: 10,897 · HTML 原生设计 skill · Agent-agnostic
+- Created:
+  - entities/huashu-design.md — 完整分析（7 大能力、品牌资产协议、设计方向顾问、Junior Designer 工作流）
+- Cross-references: 6 pages linked (claude-code-skills, baoyu-skills, mattpocock-skills, taste-skill, awesome-design-md, knowledge-as-code)
+- Total wiki pages: 40 (was 39)
+
 ## [2026-05-01] update | mattpocock/skills 深度内容补充
 - Source: GitHub README (完整)
 - Raw saved: raw/articles/mattpocock-skills-readme-2026-05-01.md
