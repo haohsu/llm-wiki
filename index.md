@@ -27,7 +27,7 @@
 - [[craft-agents-oss]] — 开源 Agent 协作工具，多任务+API 集成+文档中心化工作流
 - [[ghost-track]] — OSINT 追踪工具：IP/电话/社交媒体用户名
 - [[jcode]] — 高性能编码代理，多会话工作流设计
-- [[mattpocock-skills]] — 实用工程技能工具集（规划/开发/重构），49k stars
+- [[mattpocock-skills]] — 15 个 Agent 技能修复编码 Agent 四大失败模式，49k stars
 - [[maigret]] — 通过用户名跨平台收集信息的 OSINT 工具，20k stars
 - [[public-apis]] — 社区维护免费公共 API 集合，429k stars
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示

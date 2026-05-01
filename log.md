@@ -141,4 +141,10 @@
   - concepts/agents-as-customers.md — Agent 作为独立客户实体的趋势
 - Cross-references: 2 pages interlinked
 - Total wiki pages: 39 (was 37)
+## [2026-05-01] update | mattpocock/skills 深度内容补充
+- Source: GitHub README (完整)
+- Raw saved: raw/articles/mattpocock-skills-readme-2026-05-01.md
+- Updated:
+  - entities/mattpocock-skills.md — 从简单描述扩展为完整分析（四大失败模式、15 个技能清单、安装方式）
+
 
