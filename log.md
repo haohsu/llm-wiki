@@ -117,3 +117,19 @@
   - entities/multica.md — 开源 managed agents 平台，Agent 作为团队成员管理
 - Cross-references: 1 page linked to harness-engineering, agent-harness-patterns, claude-code-skills
 - Total wiki pages: 28 (was 27)
+## [2026-05-01] ingest | 即刻 GitHub 每日趋势 2026-05-01
+- Source: https://web.okjike.com/u/A9E2F644-A9EE-4E6C-B83B-6A0EFF4861A4/post/69f41064af7695b4cf9c5972
+- Raw saved: raw/articles/jike-github-trending-2026-05-01.md
+- Updated:
+  - entities/superpowers.md — star 数 121k → 174k，添加新来源
+- Created entities:
+  - entities/warp.md — 终端智能开发环境 (49k ⭐)
+  - entities/trading-agents.md — 多智能体 LLM 金融交易框架 (57k ⭐)
+  - entities/mattpocock-skills.md — 工程技能工具集 (49k ⭐)
+  - entities/craft-agents-oss.md — Agent 协作工具 (5.5k ⭐)
+  - entities/public-apis.md — 免费公共 API 集合 (429k ⭐)
+  - entities/jcode.md — 高性能编码代理 (1.9k ⭐)
+  - entities/maigret.md — OSINT 用户名搜索工具 (20k ⭐)
+  - entities/ghost-track.md — OSINT 追踪工具 (12k ⭐)
+  - entities/quarkdown.md — Markdown 排版系统 (13k ⭐)
+- Total wiki pages: 37 (was 28)

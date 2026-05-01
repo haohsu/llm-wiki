@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-14 | Total pages: 28
+> Last updated: 2026-05-01 | Total pages: 37
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -15,7 +15,7 @@
 - [[jim-liu]] — AI 开源贡献者，baoyu-skills 作者，@dotey
 - [[llms-txt]] — 让网站对 LLM 可读的标准，900+ 网站已采用
 - [[product-manager-skills]] — 46 个产品经理技能模块（JTBD、用户故事等）
-- [[superpowers]] — 完整软件开发方法论编码为 Agent 工作流，121k stars
+- [[superpowers]] — 完整软件开发方法论编码为 Agent 工作流，174k stars
 - [[taste-skill]] — 前端设计参数旋钮（冒险度/动画/密度），7k+ stars
 - [[andrej-karpathy-skills]] — 基于 Andrej Karpathy 观察的 Claude Code 行为指南
 - [[openai-harness-engineering]] — OpenAI 百万行代码 Harness 实验（零行手写，10x 速度）
@@ -24,6 +24,15 @@
 - [[martin-fowler-harness-engineering]] — Thoughtworks 对 Harness Engineering 的权威评析
 - [[phil-schmid-agent-harness]] — Phil Schmid 预言 Agent Harness 定义 2026 年
 - [[multica]] — 开源 managed agents 平台，Agent 作为团队成员管理（11.5k stars）
+- [[craft-agents-oss]] — 开源 Agent 协作工具，多任务+API 集成+文档中心化工作流
+- [[ghost-track]] — OSINT 追踪工具：IP/电话/社交媒体用户名
+- [[jcode]] — 高性能编码代理，多会话工作流设计
+- [[mattpocock-skills]] — 实用工程技能工具集（规划/开发/重构），49k stars
+- [[maigret]] — 通过用户名跨平台收集信息的 OSINT 工具，20k stars
+- [[public-apis]] — 社区维护免费公共 API 集合，429k stars
+- [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
+- [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars
+- [[warp]] — 终端智能开发环境，内置编程助手+CLI 代理，49k stars
 
 ## Concepts
 - [[harness-engineering]] — Harness Engineering 核心概念：设计 Agent 运行环境的工程范式

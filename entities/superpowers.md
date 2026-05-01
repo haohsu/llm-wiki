@@ -1,16 +1,16 @@
 ---
 title: Superpowers
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-05-01
 type: entity
 tags: [agent, tool, open-source]
-sources: [raw/articles/即刻-ai-agent-markdown-tools-2026-04-13.md]
+sources: [raw/articles/即刻-ai-agent-markdown-tools-2026-04-13.md, raw/articles/jike-github-trending-2026-05-01.md]
 ---
 
 # Superpowers
 
 - **GitHub**: https://github.com/obra/superpowers
-- **Stars**: 121k（[[knowledge-as-code]] 领域最多）
+- **Stars**: 174k（[[knowledge-as-code]] 领域最多）
 - **作者**: obra
 - **定位**: 完整的软件开发方法论，编码为 Agent 必须执行的工作流
 
