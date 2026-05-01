@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-01 | Total pages: 37
+> Last updated: 2026-05-01 | Total pages: 39
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -33,6 +33,7 @@
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
 - [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars
 - [[warp]] — 终端智能开发环境，内置编程助手+CLI 代理，49k stars
+- [[cloudflare-agent-customers]] — Cloudflare 让 Agent 成为一等客户（注册/付费/部署）
 
 ## Concepts
 - [[harness-engineering]] — Harness Engineering 核心概念：设计 Agent 运行环境的工程范式
@@ -45,6 +46,7 @@
 - [[knowledge-as-code]] — 知识结构化为 Markdown 喂给 Agent 的趋势总览
 - [[ai-knowledge-graph-project-innovation]] — AI + 知识图谱驱动项目创新方案（7 个场景 + 路线图）
 - [[karpathy-inspired-claude-code-guidelines]] — 基于 Karpathy 观察的 Claude Code 四大行为原则
+- [[agents-as-customers]] — Agent 从工具进化为独立客户实体，自主注册/付费/部署
 
 ## Comparisons
 

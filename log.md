@@ -133,3 +133,12 @@
   - entities/ghost-track.md — OSINT 追踪工具 (12k ⭐)
   - entities/quarkdown.md — Markdown 排版系统 (13k ⭐)
 - Total wiki pages: 37 (was 28)
+## [2026-05-01] ingest | Cloudflare Agents as Customers
+- Source: 用户提供
+- Raw saved: raw/articles/cloudflare-agents-as-customers-2026-05-01.md
+- Created:
+  - entities/cloudflare-agent-customers.md — Cloudflare Agent 客户计划
+  - concepts/agents-as-customers.md — Agent 作为独立客户实体的趋势
+- Cross-references: 2 pages interlinked
+- Total wiki pages: 39 (was 37)
+
