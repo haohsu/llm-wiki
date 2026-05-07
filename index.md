@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-07 | Total pages: 41
+> Last updated: 2026-05-07 | Total pages: 42
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -36,6 +36,7 @@
 - [[warp]] — 终端智能开发环境，内置编程助手+CLI 代理，49k stars
 - [[cloudflare-agent-customers]] — Cloudflare 让 Agent 成为一等客户（注册/付费/部署）
 - [[lwn-using-llms-python-bugs]] — LWN文章《使用LLMs发现Python C扩展中的Bug》，介绍基于Claude Code插件的系统方法发现并修复Bug成果。
+- [[talk-python-self-hosting]] — 《自主托管应用的未来》（Self-hosting Apps for Python People）播客讨论了如何结合 Docker Compose 和 Tailscale 管理本地服务，提升隐私与可控性。
 
 ## Concepts
 - [[harness-engineering]] — Harness Engineering 核心概念：设计 Agent 运行环境的工程范式
