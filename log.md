@@ -20,3 +20,10 @@
 - Created: entities/mano-p.md (中文)
 - 涵盖：基准测试、Skills（mano-cua/mano-skill）、Cider SDK、Mano-AFK、技术方法、竞品对比
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | InsForge（微信公众号）
+- Source: https://mp.weixin.qq.com/s/Mv1kbqtCZKVhDuHzhbQHww
+- Agent Native 后端开发平台，为 AI 编程提供可读语义层，MCP 集成
+- GitHub: https://github.com/InsForge/insforge
+- Created: entities/insforge.md (中文)
+- Updated index with summary entry under "Entities"
