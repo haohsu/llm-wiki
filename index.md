@@ -2,10 +2,12 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-07 | Total pages: 47
+> Last updated: 2026-05-10 | Total pages: 53
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
+- [[9router]] — 免费 AI 路由器与 Token 节省器，连接 40+ 提供商，RTK 节省 20-40% tokens，6.5k stars
+- [[addyosmani-agent-skills]] — Addy Osmani 开源的 22 个生产级 Agent 技能，Google 工程文化编码
 - [[agency-agents]] — 147 个职业角色模板，覆盖 12 个部门，52k+ stars
 - [[aicmo-marketing]] — 营销/运营方向 Agent prompt 集合，按职能模块组织
 - [[awesome-design-md]] — 55+ 大厂设计规范 Markdown 集合，4.3k stars
@@ -13,11 +15,14 @@
 - [[better-lark-skill]] — 飞书全功能 CLI 技能，19 合 1 模块化，185 个 reference 覆盖 IM/文档/表格/日历/任务/邮箱等 15 大模块
 - [[codebase-to-course]] — 代码仓库转交互式 HTML 教程
 - [[gstack]] — YC CEO Garry 的 Agent 多角色认知配置，28 个 slash 命令
+- [[get-shit-done]] — 轻量级元提示+上下文工程+Spec 驱动开发系统，61k stars，解决 AI 编程上下文腐烂问题
+- [[hermes-web-ui]] — Hermes Agent 官方 Web 控制面板，多平台 AI 聊天/会话/用量/频道管理，4.2k stars
 - [[jim-liu]] — AI 开源贡献者，baoyu-skills 作者，@dotey
 - [[llms-txt]] — 让网站对 LLM 可读的标准，900+ 网站已采用
 - [[product-manager-skills]] — 46 个产品经理技能模块（JTBD、用户故事等）
 - [[superpowers]] — 完整软件开发方法论编码为 Agent 工作流，174k stars
 - [[taste-skill]] — 前端设计参数旋钮（冒险度/动画/密度），7k+ stars
+- [[tavily-ai-skills]] — Tavily 官方 Agent 技能，LLM 优化的 Web 搜索/提取/爬取/研究工具链
 - [[andrej-karpathy-skills]] — 基于 Andrej Karpathy 观察的 Claude Code 行为指南
 - [[openai-harness-engineering]] — OpenAI 百万行代码 Harness 实验（零行手写，10x 速度）
 - [[anthropic-agent-harness]] — Anthropic 长时运行 Agent、上下文工程、多 Agent 研究系统
@@ -36,6 +41,7 @@
 - [[mano-p]] — 明略科技 GUI-VLA 端侧智能体模型，OSWorld #1（58.2%），Apple Silicon 本地推理，支持纯视觉 GUI 自动化
 - [[public-apis]] — 社区维护免费公共 API 集合，429k stars
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
+- [[seo-audit-skill]] — Script + LLM 双层架构的单页面 SEO 审计 Agent 技能，20+ 检查项
 - [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars
 - [[video-use]] — Browser Use 团队的 Claude Code 视频剪辑技能，自然语言驱动自动剪辑，7k+ stars
 - [[warp]] — 终端智能开发环境，内置编程助手+CLI 代理，49k stars

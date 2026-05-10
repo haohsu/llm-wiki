@@ -41,3 +41,39 @@
 - GitHub: https://github.com/browser-use/video-use
 - Created: entities/video-use.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | tavily-ai/skills
+- Source: https://github.com/tavily-ai/skills
+- Tavily 官方 Agent 技能，LLM 优化的 Web 搜索/提取/爬取/研究工具链
+- Created: entities/tavily-ai-skills.md (中文)
+- Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | addyosmani/agent-skills
+- Source: https://github.com/addyosmani/agent-skills
+- Addy Osmani 开源的 22 个生产级 Agent 技能，Google 工程文化编码
+- Created: entities/addyosmani-agent-skills.md (中文)
+- Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | JeffLi1993/seo-audit-skill
+- Source: https://github.com/JeffLi1993/seo-audit-skill
+- Script + LLM 双层架构的单页面 SEO 审计 Agent 技能，20+ 检查项
+- Created: entities/seo-audit-skill.md (中文)
+- Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | decolua/9router
+- Source: https://github.com/decolua/9router (README.zh-CN.md)
+- 免费 AI 路由器与 Token 节省器，连接 40+ 提供商，RTK 节省 20-40% tokens，6.5k stars
+- Created: entities/9router.md (中文)
+- Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | EKKOLearnAI/hermes-web-ui
+- Source: https://github.com/EKKOLearnAI/hermes-web-ui
+- Hermes Agent 官方 Web 控制面板，多平台 AI 聊天/会话/用量/频道管理，4.2k stars
+- Created: entities/hermes-web-ui.md (中文)
+- Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | GET SHIT DONE (GSD)
+- Source: https://github.com/gsd-build/get-shit-done
+- 轻量级元提示+上下文工程+Spec 驱动开发系统，61k stars，解决 AI 编程上下文腐烂
+- Created: entities/get-shit-done.md (中文)
+- Updated index with summary entry under "Entities"
