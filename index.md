@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-07 | Total pages: 43
+> Last updated: 2026-05-07 | Total pages: 44
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -31,6 +31,7 @@
 - [[mattpocock-skills]] — 15 个 Agent 技能修复编码 Agent 四大失败模式，49k stars
 - [[huashu-design]] — HTML 原生 Agent 设计技能，一句话出可交付原型/幻灯片/动画，10.9k stars
 - [[maigret]] — 通过用户名跨平台收集信息的 OSINT 工具，20k stars
+- [[mano-p]] — 明略科技 GUI-VLA 端侧智能体模型，OSWorld #1（58.2%），Apple Silicon 本地推理，支持纯视觉 GUI 自动化
 - [[public-apis]] — 社区维护免费公共 API 集合，429k stars
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
 - [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars

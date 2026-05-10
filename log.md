@@ -13,3 +13,10 @@
 - Cloned from github/awesome-copilot, extracted SKILL.md (613 lines)
 - Created: entities/excalidraw-diagram-generator.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | Mano-P (Mininglamp AI)
+- Source: https://github.com/MININGLAMP-AI/MANO-P
+- 明略科技 GUI-VLA 端侧智能体模型，OSWorld #1（58.2%），Apple Silicon 本地推理
+- Created: entities/mano-p.md (中文)
+- 涵盖：基准测试、Skills（mano-cua/mano-skill）、Cider SDK、Mano-AFK、技术方法、竞品对比
+- Updated index with summary entry under "Entities"
