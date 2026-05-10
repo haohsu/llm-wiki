@@ -140,3 +140,9 @@
 - AI 编程方法论指南，道法术器四层体系 + 递归自优化元方法论 + 提示词库 + Skills 框架，20k stars
 - Created: entities/vibe-coding-cn.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | architecture-diagram-generator
+- Source: https://github.com/Cocoon-AI/architecture-diagram-generator
+- 自然语言生成暗色主题架构图的 Claude Skill，独立 HTML 输出，4.8k stars
+- Created: entities/architecture-diagram-generator.md (中文)
+- Updated index with summary entry under "Entities"

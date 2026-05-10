@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 61
+> Last updated: 2026-05-10 | Total pages: 62
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -29,6 +29,7 @@
 - [[andrej-karpathy-skills]] — 基于 Andrej Karpathy 观察的 Claude Code 行为指南
 - [[openai-harness-engineering]] — OpenAI 百万行代码 Harness 实验（零行手写，10x 速度）
 - [[anthropic-agent-harness]] — Anthropic 长时运行 Agent、上下文工程、多 Agent 研究系统
+- [[architecture-diagram-generator]] — 自然语言生成暗色主题架构图的 Claude Skill，独立 HTML 输出，4.8k stars
 - [[langchain-agent-harness]] — LangChain Agent = Model + Harness 公式，Top30→Top5 实验
 - [[martin-fowler-harness-engineering]] — Thoughtworks 对 Harness Engineering 的权威评析
 - [[phil-schmid-agent-harness]] — Phil Schmid 预言 Agent Harness 定义 2026 年
