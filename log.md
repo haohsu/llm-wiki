@@ -77,3 +77,9 @@
 - 轻量级元提示+上下文工程+Spec 驱动开发系统，61k stars，解决 AI 编程上下文腐烂
 - Created: entities/get-shit-done.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | /howSkills（微信公众号）
+- Source: https://mp.weixin.qq.com/s/qUqpiz2nzUi7c9VBuhUqMQ
+- /howSkills 命令：自动深度拆解 Agent Skill，8 阶段分析，提炼可迁移设计模式
+- Created: entities/howskills.md (中文)
+- Updated index with summary entry under "Entities"

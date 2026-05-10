@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 53
+> Last updated: 2026-05-10 | Total pages: 54
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -17,6 +17,7 @@
 - [[gstack]] — YC CEO Garry 的 Agent 多角色认知配置，28 个 slash 命令
 - [[get-shit-done]] — 轻量级元提示+上下文工程+Spec 驱动开发系统，61k stars，解决 AI 编程上下文腐烂问题
 - [[hermes-web-ui]] — Hermes Agent 官方 Web 控制面板，多平台 AI 聊天/会话/用量/频道管理，4.2k stars
+- [[howskills]] — /howSkills 命令：自动深度拆解 Agent Skill，8 阶段分析提炼产品设计最佳实践
 - [[jim-liu]] — AI 开源贡献者，baoyu-skills 作者，@dotey
 - [[llms-txt]] — 让网站对 LLM 可读的标准，900+ 网站已采用
 - [[product-manager-skills]] — 46 个产品经理技能模块（JTBD、用户故事等）
