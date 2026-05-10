@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: entity
 tags: [open-source, tool, product]
-sources: [https://mp.weixin.qq.com/s/xKjNSxaJp1YxZvqEsz8yGQ, https://marp.app]
+sources: [https://mp.weixin.qq.com/s/xKjNSxaJp1YxZvqEsz8yGQ, https://blog.csdn.net/gitblog_00640/article/details/155552272, https://marp.app]
 ---
 
 # Marp — 用 Markdown 写 PPT
@@ -118,6 +118,97 @@ Marp 扩展了 Markdown 图片语法，支持直接控制表现：
 - 有序列表 `1)` — 依次显示
 - 有序列表 `1.` — 同时显示
 
+## Marp CLI（命令行工具）
+
+Marp 提供独立的 CLI 工具，无需 VS Code 即可将 Markdown 转换为幻灯片。
+
+- npm: `@marp-team/marp-cli`
+- GitHub: [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
+
+### 快速使用
+
+```bash
+# 零安装体验（推荐新手）
+npx @marp-team/marp-cli@latest 幻灯片.md           # 输出 HTML
+npx @marp-team/marp-cli@latest 幻灯片.md --pdf     # 输出 PDF
+npx @marp-team/marp-cli@latest 幻灯片.md --pptx    # 输出 PPTX
+
+# 本地安装（专业用户）
+npm install --save-dev @marp-team/marp-cli
+marp 幻灯片.md -o 最终版本.html
+```
+
+### PDF 输出技巧
+
+```bash
+marp 幻灯片.md --pdf                    # 基础 PDF
+marp 幻灯片.md --pdf --pdf-notes        # 含演讲者备注（显示在 PDF 左下角）
+marp 幻灯片.md --pdf --pdf-outlines     # 生成大纲书签（便于导航）
+```
+
+### PPTX 输出
+
+```bash
+marp 幻灯片.md --pptx                   # 标准 PPTX
+marp 幻灯片.md --pptx --pptx-editable   # 可编辑 PPTX（实验性功能）
+```
+
+### 主题系统
+
+```bash
+marp 幻灯片.md --theme gaia             # 使用内置主题
+marp 幻灯片.md --theme 我的主题.css      # 使用自定义主题
+marp --theme-set 主题A.css 主题B.css     # 多主题文件
+marp --theme-set ./themes               # 主题目录（批量管理）
+```
+
+### 高效工作流
+
+```bash
+# 监视模式：边写边看，保存即更新
+marp -w 幻灯片.md
+
+# 服务器模式：团队协作
+marp -s ./slides目录
+# 访问 http://localhost:8080/幻灯片.md 查看 HTML
+# 访问 http://localhost:8080/幻灯片.md?pdf 下载 PDF
+# 自动识别 index.md 作为默认页面
+```
+
+### 专业功能
+
+- **演讲者视图** — 按 P 键打开，显示备注和下一张幻灯片
+- **33 种内置过渡动画** — 幻灯片切换效果
+- **并行处理** — `marp --parallel 8` 同时处理多个文件（默认 5 并发）
+
+### 配置文件
+
+```javascript
+// marp.config.js
+export default {
+  inputDir: './slides',
+  output: './public',
+  themeSet: './themes'
+}
+```
+
+### 跨平台安装
+
+| 平台 | 安装命令 |
+|------|----------|
+| macOS/Linux | `brew install marp-cli` |
+| Windows | `scoop install marp` |
+| 通用 | `npm install -g @marp-team/marp-cli` |
+
+### CI/CD 集成
+
+```bash
+# 在 CI 中自动生成幻灯片
+npx @marp-team/marp-cli@latest 分享内容.md --pdf
+```
+
+注意：PDF/PPTX 转换需要 Chrome、Edge 或 Firefox 浏览器支持。
+
 ## 与 [[quarkdown]] 的对比
 
 | 维度 | Marp | [[quarkdown]] |
@@ -140,8 +231,8 @@ Marp 扩展了 Markdown 图片语法，支持直接控制表现：
 ## 局限性
 
 - 动画和过渡效果有限，无法替代 PowerPoint 的复杂动画
-- PPTX 导出后不可编辑文本
-- 需要 VS Code 或 CLI 工具
+- PPTX 导出后不可编辑文本（`--pptx-editable` 为实验性功能）
+- PDF/PPTX 转换需要浏览器支持（Chrome/Edge/Firefox）
 - 复杂布局（多列、精确对齐）需要 CSS 知识
 
 ## 相关页面

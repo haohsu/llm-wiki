@@ -89,3 +89,8 @@
 - Marp：Markdown 驱动的演示文稿工具，用简洁语法替代 PowerPoint
 - Created: entities/marp.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] update | Marp（CSDN 补充 CLI 内容）
+- Source: https://blog.csdn.net/gitblog_00640/article/details/155552272
+- 补充 Marp CLI 详细用法：PDF/PPTX 输出技巧、主题系统、监视/服务器模式、演讲者视图、33种过渡动画、CI/CD 集成
+- Updated: entities/marp.md
