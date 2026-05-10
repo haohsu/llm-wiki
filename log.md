@@ -27,3 +27,10 @@
 - GitHub: https://github.com/InsForge/insforge
 - Created: entities/insforge.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | better-lark-skill
+- Source: https://github.com/psylch/better-lark-skill
+- 飞书全功能 CLI 技能，19 合 1 模块化，185 个 reference 文件
+- 覆盖 15 大模块：IM/文档/表格/多维表格/日历/任务/云空间/邮箱/通讯录/知识库/视频会议/妙记/画板/事件订阅/账号切换
+- Created: entities/better-lark-skill.md (中文)
+- Updated index with summary entry under "Entities"

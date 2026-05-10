@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-07 | Total pages: 45
+> Last updated: 2026-05-07 | Total pages: 46
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -10,6 +10,7 @@
 - [[aicmo-marketing]] — 营销/运营方向 Agent prompt 集合，按职能模块组织
 - [[awesome-design-md]] — 55+ 大厂设计规范 Markdown 集合，4.3k stars
 - [[baoyu-skills]] — Claude Code 技能集合，14K+ stars，内容生成+AI工具链+多平台发布
+- [[better-lark-skill]] — 飞书全功能 CLI 技能，19 合 1 模块化，185 个 reference 覆盖 IM/文档/表格/日历/任务/邮箱等 15 大模块
 - [[codebase-to-course]] — 代码仓库转交互式 HTML 教程
 - [[gstack]] — YC CEO Garry 的 Agent 多角色认知配置，28 个 slash 命令
 - [[jim-liu]] — AI 开源贡献者，baoyu-skills 作者，@dotey
