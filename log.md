@@ -110,3 +110,9 @@
 - Astro 团队 Agent Harness 框架，Virtual Sandbox + Markdown Skills，2.9k stars
 - Created: entities/flue.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | pmwiki-skill
+- Source: https://github.com/etrobot/pmwiki-skill
+- 项目 Wiki 文档管理 Agent 技能，Lightstart/Precise 两种模式 + 五维度评分 + 路线图模板
+- Created: entities/pmwiki-skill.md (中文)
+- Updated index with summary entry under "Entities"

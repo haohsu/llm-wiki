@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 57
+> Last updated: 2026-05-10 | Total pages: 58
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -21,6 +21,7 @@
 - [[jim-liu]] — AI 开源贡献者，baoyu-skills 作者，@dotey
 - [[llms-txt]] — 让网站对 LLM 可读的标准，900+ 网站已采用
 - [[product-manager-skills]] — 46 个产品经理技能模块（JTBD、用户故事等）
+- [[pmwiki-skill]] — 项目 Wiki 文档管理 Agent 技能，Lightstart/Precise 两种模式 + 五维度评分系统
 - [[superpowers]] — 完整软件开发方法论编码为 Agent 工作流，174k stars
 - [[taste-skill]] — 前端设计参数旋钮（冒险度/动画/密度），7k+ stars
 - [[tavily-ai-skills]] — Tavily 官方 Agent 技能，LLM 优化的 Web 搜索/提取/爬取/研究工具链
