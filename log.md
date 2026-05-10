@@ -128,3 +128,9 @@
 - Seedance 2.0 产品宣传视频提示词技能，4 种美学风格，15 秒一镜到底，Dreamina CLI 集成
 - Created: entities/seedance-product-video.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | awesome-seedance
+- Source: https://github.com/ZeroLu/awesome-seedance
+- Seedance 2.0 提示词精选集合，7 大类别（电影/广告/社交/UGC/动漫/短剧/特效），1.7k stars
+- Created: entities/awesome-seedance.md (中文)
+- Updated index with summary entry under "Entities"
