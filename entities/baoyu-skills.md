@@ -73,7 +73,14 @@ clawhub install baoyu-imagine
 - **SVG 手写**: `baoyu-diagram` 由 Claude 直接编写 SVG 代码而非调用图像模型
 - **浏览器自动化**: 发布类技能使用 Chrome CDP 绕过反自动化检测
 
+## 实战组合技巧
+
+> **baoyu-markdown-to-html + ui-ux-pro-max** = 可视化 HTML 输出
+> 
+> 先用 UUPM 的设计系统生成器确定风格/配色/字体，再用 `baoyu-markdown-to-html` 将 Markdown 内容转为带设计系统的 HTML 页面。Agent 同时加载两个技能即可实现。
+
 ## 相关页面
 - [[jim-liu]] — 项目作者
 - [[claude-code-skills]] — Claude Code 技能生态背景
 - [[ai-image-generation]] — AI 图像生成技术对比
+- [[ui-ux-pro-max]] — 与 baoyu-markdown-to-html 配合生成可视化 HTML

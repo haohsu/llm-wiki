@@ -127,10 +127,17 @@ UUPM 内置了预交付检查清单，Agent 生成代码时自动执行：
 - 生成结果需人工审核，不适合直接用于生产
 - Python 依赖，需运行 CLI 工具
 
+## 实战组合技巧
+
+> **ui-ux-pro-max + baoyu-markdown-to-html** = 可视化 HTML 输出
+> 
+> 先用 UUPM 设计系统生成器确定风格/配色/字体，再用 `baoyu-markdown-to-html` 将 Markdown 转为带设计系统的 HTML。Agent 同时加载两个技能即可实现一站式内容→可视化页面。
+
 ## 相关页面
 
 - [[taste-skill]] — 同类前端设计辅助，但更轻量（3 个旋钮）
 - [[huashu-design]] — 另一种 HTML 设计生成工具
 - [[addyosmani-agent-skills]] — 同类 Agent 技能包（侧重开发流程）
 - [[awesome-design-md]] — 大厂设计规范 Markdown 集合
+- [[baoyu-skills]] — 与 baoyu-markdown-to-html 配合生成可视化 HTML
 - [[claude-code-skills]] — UUPM 属于 Claude Code 技能生态

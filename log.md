@@ -100,3 +100,7 @@
 - AI 编程设计智能系统，67 种 UI 风格 + 161 条行业推理规则 + 设计系统生成器，76k stars
 - Created: entities/ui-ux-pro-max.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] update | baoyu-skills + ui-ux-pro-max 实战组合技巧
+- 添加实战组合技巧：baoyu-markdown-to-html + ui-ux-pro-max = 可视化 HTML 输出
+- Updated: entities/baoyu-skills.md, entities/ui-ux-pro-max.md（双向交叉引用）
