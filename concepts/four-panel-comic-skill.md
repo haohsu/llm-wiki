@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [skill, creative, prompt-engineering, agent]
-sources: []
+sources: [entities/sensenova-image-api.md]
 ---
 
 # 四格漫画 Skill（开源四格漫画生成方法论）
@@ -91,6 +91,7 @@ sources: []
 - [[ip-character-designer]] — IP 角色设计技能，10 种画风，侧重品牌 IP 而非故事漫画
 - [[baoyu-infographic]] — 信息图生成，同属视觉内容创作工具链
 - [[ai-image-generation]] — 底层图像生成 provider 支撑
+- [[sensenova-image-api]] — 实际使用的图像生成 API（商汤 SenseNova，sensenova-u1-fast）
 - [[knowledge-as-code]] — 本技能是"将漫画创作知识编码为 Agent 可执行指令"的典型实例
 
 ## 设计哲学

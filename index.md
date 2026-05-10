@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 66
+> Last updated: 2026-05-10 | Total pages: 67
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -50,6 +50,7 @@
 - [[marp]] — Markdown 驱动的演示文稿工具，用简洁语法替代 PowerPoint，导出 PDF/PPTX/HTML
 - [[public-apis]] — 社区维护免费公共 API 集合，429k stars
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
+- [[sensenova-image-api]] — 商汤 SenseNova 文生图 API，sensenova-u1-fast 模型，OpenAI 兼容协议，11 种尺寸
 - [[seo-audit-skill]] — Script + LLM 双层架构的单页面 SEO 审计 Agent 技能，20+ 检查项
 - [[seedance-product-video]] — Seedance 2.0 产品宣传视频提示词技能，4 种美学风格，15 秒一镜到底 motion graphics
 - [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars

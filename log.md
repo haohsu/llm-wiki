@@ -172,3 +172,11 @@
 - Created: concepts/four-panel-comic-skill.md (中文)
 - Updated SCHEMA.md: 新增 Creative 标签分类（skill, creative, design, prompt-engineering）
 - Updated index with summary entry under "Concepts"
+
+## [2026-05-10] ingest | SenseNova 图像生成 API
+- Source: https://platform.sensenova.cn/docs, https://github.com/zhbcher/sensenova-image-gen
+- 商汤 SenseNova 文生图 API，sensenova-u1-fast 模型，OpenAI Images API 兼容
+- Base URL: https://token.sensenova.cn/v1，11 种尺寸
+- 首次实践：四格漫画"忙碌与方向"（2752x1536），效果良好
+- Created: entities/sensenova-image-api.md (中文)
+- Updated index with summary entry under "Entities"
