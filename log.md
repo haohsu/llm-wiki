@@ -146,3 +146,9 @@
 - 自然语言生成暗色主题架构图的 Claude Skill，独立 HTML 输出，4.8k stars
 - Created: entities/architecture-diagram-generator.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | XBTI
+- Source: https://github.com/lovstudio/XBTI
+- 开源人格测试引擎，15 维度 + 曼哈顿距离匹配，5 分钟创建自定义 BTI，Claude Code skill 支持
+- Created: entities/xbti.md (中文)
+- Updated index with summary entry under "Entities"
