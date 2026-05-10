@@ -34,3 +34,10 @@
 - 覆盖 15 大模块：IM/文档/表格/多维表格/日历/任务/云空间/邮箱/通讯录/知识库/视频会议/妙记/画板/事件订阅/账号切换
 - Created: entities/better-lark-skill.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | Video Use（微信公众号）
+- Source: https://mp.weixin.qq.com/s/rmS4IFn9Ec_xmiEs7RGBSg
+- Browser Use 团队的 Claude Code 视频剪辑技能，7k+ stars
+- GitHub: https://github.com/browser-use/video-use
+- Created: entities/video-use.md (中文)
+- Updated index with summary entry under "Entities"

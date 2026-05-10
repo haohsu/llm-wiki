@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-07 | Total pages: 46
+> Last updated: 2026-05-07 | Total pages: 47
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -37,6 +37,7 @@
 - [[public-apis]] — 社区维护免费公共 API 集合，429k stars
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
 - [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars
+- [[video-use]] — Browser Use 团队的 Claude Code 视频剪辑技能，自然语言驱动自动剪辑，7k+ stars
 - [[warp]] — 终端智能开发环境，内置编程助手+CLI 代理，49k stars
 - [[cloudflare-agent-customers]] — Cloudflare 让 Agent 成为一等客户（注册/付费/部署）
 - [[lwn-using-llms-python-bugs]] — LWN文章《使用LLMs发现Python C扩展中的Bug》，介绍基于Claude Code插件的系统方法发现并修复Bug成果。
