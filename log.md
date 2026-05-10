@@ -152,3 +152,9 @@
 - 开源人格测试引擎，15 维度 + 曼哈顿距离匹配，5 分钟创建自定义 BTI，Claude Code skill 支持
 - Created: entities/xbti.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | Awesome Happy Horse
+- Source: https://github.com/ZeroLu/awesome-happy-horse
+- Happy Horse 1.0 社区策划提示词集，5 大创意类别（电影/广告/动画/社交/基准），75 stars
+- Created: entities/awesome-happy-horse.md (中文)
+- Updated index with summary entry under "Entities"

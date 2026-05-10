@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 63
+> Last updated: 2026-05-10 | Total pages: 64
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -11,6 +11,7 @@
 - [[agency-agents]] — 147 个职业角色模板，覆盖 12 个部门，52k+ stars
 - [[aicmo-marketing]] — 营销/运营方向 Agent prompt 集合，按职能模块组织
 - [[awesome-design-md]] — 55+ 大厂设计规范 Markdown 集合，4.3k stars
+- [[awesome-happy-horse]] — Happy Horse 1.0 社区策划提示词集，5 大创意类别 + 基准对比，75 stars
 - [[awesome-seedance]] — Seedance 2.0 提示词精选集合，7 大类别（电影/广告/社交/动漫等），1.7k stars
 - [[baoyu-skills]] — Claude Code 技能集合，14K+ stars，内容生成+AI工具链+多平台发布
 - [[better-lark-skill]] — 飞书全功能 CLI 技能，19 合 1 模块化，185 个 reference 覆盖 IM/文档/表格/日历/任务/邮箱等 15 大模块
