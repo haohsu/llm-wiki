@@ -94,3 +94,9 @@
 - Source: https://blog.csdn.net/gitblog_00640/article/details/155552272
 - 补充 Marp CLI 详细用法：PDF/PPTX 输出技巧、主题系统、监视/服务器模式、演讲者视图、33种过渡动画、CI/CD 集成
 - Updated: entities/marp.md
+
+## [2026-05-10] ingest | UI UX Pro Max
+- Source: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- AI 编程设计智能系统，67 种 UI 风格 + 161 条行业推理规则 + 设计系统生成器，76k stars
+- Created: entities/ui-ux-pro-max.md (中文)
+- Updated index with summary entry under "Entities"
