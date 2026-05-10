@@ -134,3 +134,9 @@
 - Seedance 2.0 提示词精选集合，7 大类别（电影/广告/社交/UGC/动漫/短剧/特效），1.7k stars
 - Created: entities/awesome-seedance.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | vibe-coding-cn
+- Source: https://github.com/tukuaiai/vibe-coding-cn
+- AI 编程方法论指南，道法术器四层体系 + 递归自优化元方法论 + 提示词库 + Skills 框架，20k stars
+- Created: entities/vibe-coding-cn.md (中文)
+- Updated index with summary entry under "Entities"
