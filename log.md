@@ -122,3 +122,9 @@
 - 自媒体 IP 配图生成器，10种画风 × 双版本输出 × 中文提示词，Cola/Claude Skill
 - Created: entities/ip-character-designer.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | Seedance-Product-Video
+- Source: https://github.com/op7418/Seedance-Product-Video
+- Seedance 2.0 产品宣传视频提示词技能，4 种美学风格，15 秒一镜到底，Dreamina CLI 集成
+- Created: entities/seedance-product-video.md (中文)
+- Updated index with summary entry under "Entities"

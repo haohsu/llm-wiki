@@ -47,6 +47,7 @@
 - [[public-apis]] — 社区维护免费公共 API 集合，429k stars
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
 - [[seo-audit-skill]] — Script + LLM 双层架构的单页面 SEO 审计 Agent 技能，20+ 检查项
+- [[seedance-product-video]] — Seedance 2.0 产品宣传视频提示词技能，4 种美学风格，15 秒一镜到底 motion graphics
 - [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars
 - [[ui-ux-pro-max]] — AI 编程设计智能系统，67 种 UI 风格 + 161 条行业推理规则，76k stars
 - [[video-use]] — Browser Use 团队的 Claude Code 视频剪辑技能，自然语言驱动自动剪辑，7k+ stars
