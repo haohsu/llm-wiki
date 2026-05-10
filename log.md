@@ -104,3 +104,9 @@
 ## [2026-05-10] update | baoyu-skills + ui-ux-pro-max 实战组合技巧
 - 添加实战组合技巧：baoyu-markdown-to-html + ui-ux-pro-max = 可视化 HTML 输出
 - Updated: entities/baoyu-skills.md, entities/ui-ux-pro-max.md（双向交叉引用）
+
+## [2026-05-10] ingest | Flue
+- Source: https://github.com/withastro/flue
+- Astro 团队 Agent Harness 框架，Virtual Sandbox + Markdown Skills，2.9k stars
+- Created: entities/flue.md (中文)
+- Updated index with summary entry under "Entities"
