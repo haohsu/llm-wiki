@@ -116,3 +116,9 @@
 - 项目 Wiki 文档管理 Agent 技能，Lightstart/Precise 两种模式 + 五维度评分 + 路线图模板
 - Created: entities/pmwiki-skill.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | IP Character Designer (GitHub)
+- Source: https://github.com/Beatatata/ip-character-designer
+- 自媒体 IP 配图生成器，10种画风 × 双版本输出 × 中文提示词，Cola/Claude Skill
+- Created: entities/ip-character-designer.md (中文)
+- Updated index with summary entry under "Entities"
