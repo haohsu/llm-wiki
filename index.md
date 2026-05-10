@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-07 | Total pages: 42
+> Last updated: 2026-05-07 | Total pages: 43
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -25,6 +25,7 @@
 - [[phil-schmid-agent-harness]] — Phil Schmid 预言 Agent Harness 定义 2026 年
 - [[multica]] — 开源 managed agents 平台，Agent 作为团队成员管理（11.5k stars）
 - [[craft-agents-oss]] — 开源 Agent 协作工具，多任务+API 集成+文档中心化工作流
+- [[excalidraw-diagram-generator]] — 自然语言生成 Excalidraw 图表的 Agent 技能，支持 9 种图表类型（流程图/架构图/ER图等），16k+ 安装
 - [[ghost-track]] — OSINT 追踪工具：IP/电话/社交媒体用户名
 - [[jcode]] — 高性能编码代理，多会话工作流设计
 - [[mattpocock-skills]] — 15 个 Agent 技能修复编码 Agent 四大失败模式，49k stars
