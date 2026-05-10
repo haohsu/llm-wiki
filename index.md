@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 65
+> Last updated: 2026-05-10 | Total pages: 66
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -63,6 +63,7 @@
 - [[talk-python-self-hosting]] — 《自主托管应用的未来》（Self-hosting Apps for Python People）播客讨论了如何结合 Docker Compose 和 Tailscale 管理本地服务，提升隐私与可控性。
 
 ## Concepts
+- [[four-panel-comic-skill]] — 四格漫画生成方法论：结构化提示词 + 视觉隐喻 + 哲理升华，灵感来自宝玉
 - [[harness-engineering]] — Harness Engineering 核心概念：设计 Agent 运行环境的工程范式
 - [[harness-engineering-components]] — Harness 四大支柱：分层上下文、Agent 专业化、持久记忆、背压
 - [[harness-engineering-vs-context-engineering]] — Prompt/Context/Harness 三层概念辨析

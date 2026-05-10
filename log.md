@@ -164,3 +164,11 @@
 - GPT Image 2 提示词精选合集，56 个场景示例，8 大类别（摄影写实、游戏、UI/UX、信息图等），1.2k stars
 - Created: entities/awesome-gpt-image.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] create | 四格漫画 Skill（概念页）
+- 来源：用户提供的四格漫画创作方法论，灵感来自宝玉（jim-liu）
+- 结构化提示词模板：四格故事结构（起承转合）+ 视觉隐喻 + 哲理升华
+- 图像生成参数：16:9、简约线条艺术风格、商务插画风格、纯白背景+黑色线条+橙色强调
+- Created: concepts/four-panel-comic-skill.md (中文)
+- Updated SCHEMA.md: 新增 Creative 标签分类（skill, creative, design, prompt-engineering）
+- Updated index with summary entry under "Concepts"

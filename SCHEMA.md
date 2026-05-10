@@ -29,6 +29,7 @@ sources: [raw/articles/source-name.md]
 - **Market**: market, funding, acquisition, ipo, valuation
 - **Product**: product, feature, platform, api, tool
 - **Strategy**: strategy, moat, competition, pricing, go-to-market
+- **Creative**: skill, creative, design, prompt-engineering
 - **Meta**: comparison, timeline, controversy, prediction, trend
 
 Rule: every tag on a page must appear in this taxonomy. If a new tag is needed, add it here first, then use it.
