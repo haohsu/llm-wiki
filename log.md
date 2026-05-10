@@ -158,3 +158,9 @@
 - Happy Horse 1.0 社区策划提示词集，5 大创意类别（电影/广告/动画/社交/基准），75 stars
 - Created: entities/awesome-happy-horse.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | Awesome GPT Image 2 (GitHub)
+- Source: https://github.com/ZeroLu/awesome-gpt-image
+- GPT Image 2 提示词精选合集，56 个场景示例，8 大类别（摄影写实、游戏、UI/UX、信息图等），1.2k stars
+- Created: entities/awesome-gpt-image.md (中文)
+- Updated index with summary entry under "Entities"
