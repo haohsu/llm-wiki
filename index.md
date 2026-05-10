@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 54
+> Last updated: 2026-05-10 | Total pages: 55
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -40,6 +40,7 @@
 - [[insforge]] — Agent Native 后端开发平台，为 AI 编程提供可读语义层，MCP 集成，支持 Docker/云部署
 - [[maigret]] — 通过用户名跨平台收集信息的 OSINT 工具，20k stars
 - [[mano-p]] — 明略科技 GUI-VLA 端侧智能体模型，OSWorld #1（58.2%），Apple Silicon 本地推理，支持纯视觉 GUI 自动化
+- [[marp]] — Markdown 驱动的演示文稿工具，用简洁语法替代 PowerPoint，导出 PDF/PPTX/HTML
 - [[public-apis]] — 社区维护免费公共 API 集合，429k stars
 - [[quarkdown]] — 基于 Markdown 的现代排版系统，支持书籍/论文/演示
 - [[seo-audit-skill]] — Script + LLM 双层架构的单页面 SEO 审计 Agent 技能，20+ 检查项

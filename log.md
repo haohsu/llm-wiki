@@ -83,3 +83,9 @@
 - /howSkills 命令：自动深度拆解 Agent Skill，8 阶段分析，提炼可迁移设计模式
 - Created: entities/howskills.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-10] ingest | Marp（微信公众号）
+- Source: https://mp.weixin.qq.com/s/xKjNSxaJp1YxZvqEsz8yGQ
+- Marp：Markdown 驱动的演示文稿工具，用简洁语法替代 PowerPoint
+- Created: entities/marp.md (中文)
+- Updated index with summary entry under "Entities"
