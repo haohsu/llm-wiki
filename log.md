@@ -196,6 +196,13 @@
 - Created: entities/openfootball-worldcup.md (中文)
 - Updated index with summary entry under "Entities"
 
+## [2026-05-12] ingest | SoccerData
+- Source: https://github.com/probberechts/soccerdata
+- Python 足球数据采集库，8 个数据源（ClubElo/ESPN/FBref/Football-Data.co.uk/Sofascore/SoFIFA/Understat/WhoScored）
+- 统一 pandas DataFrame 接口，本地缓存，Apache-2.0，活跃维护
+- Created: entities/soccerdata.md (中文)
+- Updated index with summary entry under "Entities"
+
 ## [2026-05-12] ingest | worldfootballR
 - Source: https://github.com/JaseZiv/worldfootballR
 - R 足球数据抓取包，75 个导出函数，覆盖 FBref/Transfermarkt/Understat 三大数据源
