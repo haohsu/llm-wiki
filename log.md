@@ -195,3 +195,10 @@
 - 559 个 txt 文件，含 min/standard/full 多粒度数据层，公共领域
 - Created: entities/openfootball-worldcup.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-12] ingest | worldfootballR
+- Source: https://github.com/JaseZiv/worldfootballR
+- R 足球数据抓取包，75 个导出函数，覆盖 FBref/Transfermarkt/Understat 三大数据源
+- 已归档（不再维护），GPL-3 许可
+- Created: entities/worldfootballr.md (中文)
+- Updated index with summary entry under "Entities"
