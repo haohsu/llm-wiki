@@ -30,6 +30,7 @@ sources: [raw/articles/source-name.md]
 - **Product**: product, feature, platform, api, tool
 - **Strategy**: strategy, moat, competition, pricing, go-to-market
 - **Creative**: skill, creative, design, prompt-engineering
+- **Data**: data, dataset, open-data
 - **Meta**: comparison, timeline, controversy, prediction, trend
 
 Rule: every tag on a page must appear in this taxonomy. If a new tag is needed, add it here first, then use it.

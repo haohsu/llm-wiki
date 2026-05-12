@@ -180,3 +180,18 @@
 - 首次实践：四格漫画"忙碌与方向"（2752x1536），效果良好
 - Created: entities/sensenova-image-api.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-12] ingest | Fjelstul World Cup Database
+- Source: https://github.com/jfjelstul/worldcup
+- 综合性 FIFA 世界杯数据库，27 个数据集 158 万+ 数据点，覆盖男足 22 届 + 女足 8 届
+- R/CSV/JSON/SQLite 四种格式，CC-BY-SA 4.0 许可
+- Created: entities/fjelstul-worldcup-database.md (中文)
+- Updated SCHEMA.md: 新增 Data 标签分类（data, dataset, open-data）
+- Updated index with summary entry under "Entities"
+
+## [2026-05-12] ingest | OpenFootball World Cup
+- Source: https://github.com/openfootball/worldcup
+- football.db 世界杯数据仓库，Football.TXT 纯文本格式，覆盖 1930-2026 共 23 届
+- 559 个 txt 文件，含 min/standard/full 多粒度数据层，公共领域
+- Created: entities/openfootball-worldcup.md (中文)
+- Updated index with summary entry under "Entities"

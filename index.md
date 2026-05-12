@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 67
+> Last updated: 2026-05-12 | Total pages: 69
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -30,6 +30,7 @@
 - [[tavily-ai-skills]] — Tavily 官方 Agent 技能，LLM 优化的 Web 搜索/提取/爬取/研究工具链
 - [[andrej-karpathy-skills]] — 基于 Andrej Karpathy 观察的 Claude Code 行为指南
 - [[openai-harness-engineering]] — OpenAI 百万行代码 Harness 实验（零行手写，10x 速度）
+- [[openfootball-worldcup]] — football.db 世界杯数据仓库，Football.TXT 纯文本格式，覆盖 1930-2026 共 23 届，公共领域
 - [[anthropic-agent-harness]] — Anthropic 长时运行 Agent、上下文工程、多 Agent 研究系统
 - [[architecture-diagram-generator]] — 自然语言生成暗色主题架构图的 Claude Skill，独立 HTML 输出，4.8k stars
 - [[langchain-agent-harness]] — LangChain Agent = Model + Harness 公式，Top30→Top5 实验
@@ -38,6 +39,7 @@
 - [[multica]] — 开源 managed agents 平台，Agent 作为团队成员管理（11.5k stars）
 - [[craft-agents-oss]] — 开源 Agent 协作工具，多任务+API 集成+文档中心化工作流
 - [[excalidraw-diagram-generator]] — 自然语言生成 Excalidraw 图表的 Agent 技能，支持 9 种图表类型（流程图/架构图/ER图等），16k+ 安装
+- [[fjelstul-worldcup-database]] — 综合性 FIFA 世界杯数据库，27 个数据集 158 万+ 数据点，覆盖男足 22 届 + 女足 8 届，R/CSV/JSON/SQLite 四种格式
 - [[flue]] — Astro 团队开源的 Agent Harness 框架，TypeScript，Virtual Sandbox + Markdown Skills，2.9k stars
 - [[ghost-track]] — OSINT 追踪工具：IP/电话/社交媒体用户名
 - [[jcode]] — 高性能编码代理，多会话工作流设计
