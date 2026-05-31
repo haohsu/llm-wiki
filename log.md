@@ -209,3 +209,10 @@
 - 已归档（不再维护），GPL-3 许可
 - Created: entities/worldfootballr.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-05-31] ingest | Harness
+- Source: https://github.com/revfactory/harness
+- Claude Code 团队架构工厂（Team-Architecture Factory），6 种 Agent 团队模式自动生成 agents/skills，4.4k stars
+- L3 元工厂层，A/B 测试 +60% 质量提升（n=15，作者自测）
+- Created: entities/revfactory-harness.md (中文)
+- Updated index with summary entry under "Entities"
