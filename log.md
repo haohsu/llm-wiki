@@ -242,3 +242,12 @@
 - Created: entities/moneyprinterv2.md (中文)
 - Updated raw source: raw/articles/moneyprinterv2-README.md
 - Updated index with summary entry under "Entities"
+
+## [2026-07-05] ingest | GSAP AI Skills
+- Source: https://github.com/greensock/gsap-skills
+- GSAP 官方 AI 技能包，10.9k stars
+- 8 个子技能：core/timeline/ScrollTrigger/plugins/React/Vue/performance
+- 采用 Agent Skills 格式，兼容 40+ 编程工具
+- Created: entities/gsap-skills.md (中文)
+- Updated raw source: raw/articles/gsap-skills-README.md
+- Updated index with summary entry under "Entities"

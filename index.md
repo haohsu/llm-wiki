@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-05 | Total pages: 75
+> Last updated: 2026-07-05 | Total pages: 76
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -44,6 +44,7 @@
 - [[flue]] — Astro 团队开源的 Agent Harness 框架，TypeScript，Virtual Sandbox + Markdown Skills，2.9k stars
 - [[free-for-dev]] — 开发者免费服务清单（SaaS/PaaS/IaaS），128k stars，60+ 类别 1000+ 免费层产品
 - [[ghost-track]] — OSINT 追踪工具：IP/电话/社交媒体用户名
+- [[gsap-skills]] — GSAP 官方 AI 技能包，8 个子技能教 Agent 正确使用动画库（ScrollTrigger/时间线/React），10.9k stars
 - [[jcode]] — 高性能编码代理，多会话工作流设计
 - [[mattpocock-skills]] — 15 个 Agent 技能修复编码 Agent 四大失败模式，49k stars
 - [[moneyprinterv2]] — 自动化在线赚钱流程的开源应用，Twitter Bot + YouTube Shorts + 冷邮件，31k stars
