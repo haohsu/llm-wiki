@@ -216,3 +216,12 @@
 - L3 元工厂层，A/B 测试 +60% 质量提升（n=15，作者自测）
 - Created: entities/revfactory-harness.md (中文)
 - Updated index with summary entry under "Entities"
+
+## [2026-07-05] ingest | free-for-dev
+- Source: https://github.com/ripienaar/free-for-dev
+- 开发者免费服务清单，SaaS/PaaS/IaaS 免费层集合，1600+ 贡献者维护
+- 60+ 类别，覆盖云服务/API/Monitoring/DB/Auth/CDN等
+- Created: entities/free-for-dev.md (中文)
+- 包含与 [[public-apis]] 的对比
+- Updated raw source: raw/articles/free-for-dev-README.md (240KB)
+- Updated index with summary entry under "Entities"

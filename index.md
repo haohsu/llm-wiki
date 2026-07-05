@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-31 | Total pages: 72
+> Last updated: 2026-07-05 | Total pages: 73
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -41,6 +41,7 @@
 - [[excalidraw-diagram-generator]] — 自然语言生成 Excalidraw 图表的 Agent 技能，支持 9 种图表类型（流程图/架构图/ER图等），16k+ 安装
 - [[fjelstul-worldcup-database]] — 综合性 FIFA 世界杯数据库，27 个数据集 158 万+ 数据点，覆盖男足 22 届 + 女足 8 届，R/CSV/JSON/SQLite 四种格式
 - [[flue]] — Astro 团队开源的 Agent Harness 框架，TypeScript，Virtual Sandbox + Markdown Skills，2.9k stars
+- [[free-for-dev]] — 开发者免费服务清单（SaaS/PaaS/IaaS），128k stars，60+ 类别 1000+ 免费层产品
 - [[ghost-track]] — OSINT 追踪工具：IP/电话/社交媒体用户名
 - [[jcode]] — 高性能编码代理，多会话工作流设计
 - [[mattpocock-skills]] — 15 个 Agent 技能修复编码 Agent 四大失败模式，49k stars
