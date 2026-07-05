@@ -225,3 +225,12 @@
 - 包含与 [[public-apis]] 的对比
 - Updated raw source: raw/articles/free-for-dev-README.md (240KB)
 - Updated index with summary entry under "Entities"
+
+## [2026-07-05] ingest | FreeLLMAPI
+- Source: https://github.com/tashfeenahmed/freellmapi
+- 聚合 18 个 LLM 提供商免费层的 OpenAI 兼容代理，15k stars
+- 161 免费模型，~1.7B tokens/月，支持 OpenAI + Anthropic API 格式
+- 包含与 [[9router]] 的对比
+- Created: entities/freellmapi.md (中文)
+- Updated raw source: raw/articles/freellmapi-README.md (57KB)
+- Updated index with summary entry under "Entities"
