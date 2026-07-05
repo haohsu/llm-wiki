@@ -234,3 +234,11 @@
 - Created: entities/freellmapi.md (中文)
 - Updated raw source: raw/articles/freellmapi-README.md (57KB)
 - Updated index with summary entry under "Entities"
+
+## [2026-07-05] ingest | MoneyPrinter V2
+- Source: https://github.com/FujiwaraChoki/MoneyPrinterV2
+- 自动化在线赚钱流程的开源应用，31k stars
+- Twitter Bot + YouTube Shorts 自动生成 + 联盟营销 + 冷邮件
+- Created: entities/moneyprinterv2.md (中文)
+- Updated raw source: raw/articles/moneyprinterv2-README.md
+- Updated index with summary entry under "Entities"
