@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-05 | Total pages: 76
+> Last updated: 2026-08-14 | Total pages: 77
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -71,6 +71,7 @@
 - [[cloudflare-agent-customers]] — Cloudflare 让 Agent 成为一等客户（注册/付费/部署）
 - [[lwn-using-llms-python-bugs]] — LWN文章《使用LLMs发现Python C扩展中的Bug》，介绍基于Claude Code插件的系统方法发现并修复Bug成果。
 - [[talk-python-self-hosting]] — 《自主托管应用的未来》（Self-hosting Apps for Python People）播客讨论了如何结合 Docker Compose 和 Tailscale 管理本地服务，提升隐私与可控性。
+- [[awesome-minimax-h3]] — 同作者的 MiniMax H3 视频生成提示词合集，6 大类别（教育/纪录片/动作/喜剧/音乐/社区），早期阶段（2026-08-12 创建）
 
 ## Concepts
 - [[four-panel-comic-skill]] — 四格漫画生成方法论：结构化提示词 + 视觉隐喻 + 哲理升华，灵感来自宝玉

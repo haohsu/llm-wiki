@@ -251,3 +251,10 @@
 - Created: entities/gsap-skills.md (中文)
 - Updated raw source: raw/articles/gsap-skills-README.md
 - Updated index with summary entry under "Entities"
+
+## [2026-08-14] ingest | awesome-minimax-h3
+- Source: https://github.com/ZeroLu/awesome-minimax-h3
+- Created: entities/awesome-minimax-h3.md (中文)
+- 6 大类别（教育/纪录片/动作/喜剧/音乐/社区），与 awesome-seedance 同作者 ZeroLu
+- Updated raw source: raw/articles/awesome-minimax-h3-README.md
+- Updated index with summary entry under "Entities" (Total pages: 77)
