@@ -252,6 +252,15 @@
 - Updated raw source: raw/articles/gsap-skills-README.md
 - Updated index with summary entry under "Entities"
 
+## [2026-07-07] ingest | camofox-browser (jo-inc)
+- Source: https://github.com/jo-inc/camofox-browser
+- Agent 反检测无头浏览器 REST 服务，Node.js，7.4k stars，MIT
+- 基于 Camoufox（Firefox 分支，C++ 层指纹伪造），封装成 a11y snapshot + element ref API
+- 特性：cookie 导入、backconnect 代理、GeoIP、YouTube 转录、VNC 登录、session trace、Docker/Fly/Railway 部署
+- Created: entities/camofox-browser.md (中文)
+- Added raw source: raw/articles/camofox-browser-README.md (732 行)
+- Updated index with summary entry under "Entities" (77 pages)
+
 ## [2026-08-14] ingest | awesome-minimax-h3
 - Source: https://github.com/ZeroLu/awesome-minimax-h3
 - Created: entities/awesome-minimax-h3.md (中文)

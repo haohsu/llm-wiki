@@ -16,6 +16,7 @@
 - [[awesome-seedance]] — Seedance 2.0 提示词精选集合，7 大类别（电影/广告/社交/动漫等），1.7k stars
 - [[baoyu-skills]] — Claude Code 技能集合，14K+ stars，内容生成+AI工具链+多平台发布
 - [[better-lark-skill]] — 飞书全功能 CLI 技能，19 合 1 模块化，185 个 reference 覆盖 IM/文档/表格/日历/任务/邮箱等 15 大模块
+- [[camofox-browser]] — jo-inc 出品的 Agent 反检测无头浏览器 REST 服务，基于 Camoufox（Firefox C++ 层指纹伪造），7.4k stars，MIT
 - [[codebase-to-course]] — 代码仓库转交互式 HTML 教程
 - [[gstack]] — YC CEO Garry 的 Agent 多角色认知配置，28 个 slash 命令
 - [[get-shit-done]] — 轻量级元提示+上下文工程+Spec 驱动开发系统，61k stars，解决 AI 编程上下文腐烂问题
