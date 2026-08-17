@@ -267,3 +267,8 @@
 - 6 大类别（教育/纪录片/动作/喜剧/音乐/社区），与 awesome-seedance 同作者 ZeroLu
 - Updated raw source: raw/articles/awesome-minimax-h3-README.md
 - Updated index with summary entry under "Entities" (Total pages: 77)
+
+## [2026-08-17] query | Agent 网络访问 plugin/skills 盘点
+- 从 index + 全文检索梳理"帮助 agent 访问网络"的 plugin/skills
+- 核心命中: tavily-ai-skills (搜索/提取/爬取), seo-audit-skill (URL 审计抓取), freellmapi + 9router (LLM API 网关), public-apis (API 目录), soccerdata/maigret/ghost-track (专项数据采集)
+- 未新建页面（均为已有实体，纯检索查询）
