@@ -272,3 +272,11 @@
 - 从 index + 全文检索梳理"帮助 agent 访问网络"的 plugin/skills
 - 核心命中: tavily-ai-skills (搜索/提取/爬取), seo-audit-skill (URL 审计抓取), freellmapi + 9router (LLM API 网关), public-apis (API 目录), soccerdata/maigret/ghost-track (专项数据采集)
 - 未新建页面（均为已有实体，纯检索查询）
+
+## [2026-08-19] ingest | Ian Xiaohei Illustrations
+- Source: https://github.com/helloianneo/ian-xiaohei-illustrations
+- 中文小黑怪诞正文配图生成 Skill，16:9 白底手绘，9.5k stars，1.2k forks
+- Created: raw/articles/ian-xiaohei-illustrations-README.md
+- Created: entities/ian-xiaohei-illustrations.md (中文)
+- 更新 index with summary entry under "Entities" (Total pages: 78)
+- 涵盖：小黑 IP 定义、八种构图模式、工作流程、视觉风格要求

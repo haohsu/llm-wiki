@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-14 | Total pages: 77
+> Last updated: 2026-08-19 | Total pages: 78
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -50,6 +50,7 @@
 - [[mattpocock-skills]] — 15 个 Agent 技能修复编码 Agent 四大失败模式，49k stars
 - [[moneyprinterv2]] — 自动化在线赚钱流程的开源应用，Twitter Bot + YouTube Shorts + 冷邮件，31k stars
 - [[huashu-design]] — HTML 原生 Agent 设计技能，一句话出可交付原型/幻灯片/动画，10.9k stars
+- [[ian-xiaohei-illustrations]] — 中文小黑怪诞正文配图生成 Skill，16:9 白底手绘+少量红橙蓝批注，9.5k stars
 - [[insforge]] — Agent Native 后端开发平台，为 AI 编程提供可读语义层，MCP 集成，支持 Docker/云部署
 - [[ip-character-designer]] — 自媒体 IP 配图生成器，10种画风 × 双版本输出 × 中文提示词，IP 角色设计全案
 - [[maigret]] — 通过用户名跨平台收集信息的 OSINT 工具，20k stars
