@@ -2,10 +2,11 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-19 | Total pages: 78
+> Last updated: 2026-08-29 | Total pages: 80
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
+- [[anatomy-atelier]] — Three.js 交互式 3D 人体解剖学习器，9 个器官、12 种语言，2.7k stars
 - [[9router]] — 免费 AI 路由器与 Token 节省器，连接 40+ 提供商，RTK 节省 20-40% tokens，6.5k stars
 - [[addyosmani-agent-skills]] — Addy Osmani 开源的 22 个生产级 Agent 技能，Google 工程文化编码
 - [[agency-agents]] — 147 个职业角色模板，覆盖 12 个部门，52k+ stars

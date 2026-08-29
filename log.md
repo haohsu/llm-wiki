@@ -280,3 +280,11 @@
 - Created: entities/ian-xiaohei-illustrations.md (中文)
 - 更新 index with summary entry under "Entities" (Total pages: 78)
 - 涵盖：小黑 IP 定义、八种构图模式、工作流程、视觉风格要求
+
+## [2026-08-29] ingest | Anatomy Atelier（thebuggeddev/anatomy）
+- Source: https://github.com/thebuggeddev/anatomy
+- GitHub snapshot: 2,760 stars, 769 forks；TypeScript；默认分支 main
+- Created: raw/articles/anatomy-README.md
+- Created: entities/anatomy-atelier.md (中文)
+- Updated index with summary entry under "Entities" (Total pages: 79)
+- 涵盖：Three.js 3D 查看器、9 个器官、热点标注、测验、多语言、性能与项目局限性
