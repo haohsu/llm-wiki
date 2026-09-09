@@ -288,3 +288,10 @@
 - Created: entities/anatomy-atelier.md (中文)
 - Updated index with summary entry under "Entities" (Total pages: 79)
 - 涵盖：Three.js 3D 查看器、9 个器官、热点标注、测验、多语言、性能与项目局限性
+
+## [2026-09-09] update | LLM 交易 Agent 生态盘点
+- Source: LLMQuant/awesome-trading-agents + bettyguo/awesome-llm-trading-agents（2026-05 快照，未下载仓库 README）
+- Created: concepts/llm-trading-ecosystem.md (中文) — 多 Agent 交易框架对比（ai-hedge-fund ~59k、TradingAgents-CN/AShare、ContestTrade、AI-Trader 等）、技术路线近亲（FinRobot/FinRL/Qlib/FinMem）、已知局限（LLM 训练集泄漏、回测偏差、新闻延迟 → 适合波段研究非自动盈利）
+- Updated: entities/trading-agents.md — 新增"同类项目与生态"交叉引用
+- Updated: entities/public-apis.md — 注明 A 股数据源不在覆盖范围，指向 [[llm-trading-ecosystem]]
+- Updated index with summary entry under "Concepts" (Total pages: 81)

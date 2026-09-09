@@ -1,7 +1,7 @@
 ---
 title: Public APIs
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-09-09
 type: entity
 tags: [tool, open-source]
 sources: [raw/articles/jike-github-trending-2026-05-01.md]
@@ -23,3 +23,4 @@ Public APIs 是一个社区维护的免费公共 API 集合，涵盖多个领域
 
 - Agent 开发的重要基础设施：Agent 需要调用外部 API 获取实时数据
 - 与 [[trading-agents]] 等需要市场数据的 Agent 项目互补
+- A 股数据源不在本列表覆盖范围（以国际市场 API 为主），A 股场景见 [[llm-trading-ecosystem]] 中 TradingAgents-CN 使用的 Tushare/AkShare
