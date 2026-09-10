@@ -295,3 +295,9 @@
 - Updated: entities/trading-agents.md — 新增"同类项目与生态"交叉引用
 - Updated: entities/public-apis.md — 注明 A 股数据源不在覆盖范围，指向 [[llm-trading-ecosystem]]
 - Updated index with summary entry under "Concepts" (Total pages: 81)
+
+## [2026-09-10] query | 检索 PPT/幻灯片相关内容
+- 全文检索 ppt/pptx/slide/演示文稿/幻灯片: 命中 15 个文件
+- 核心编译: [[marp]] (Markdown 写 PPT, 导出 PDF/PPTX/HTML), [[huashu-design]] (HTML deck + 可编辑 PPTX), [[baoyu-skills]] 的 baoyu-slide-deck (自动合并 .pptx/.pdf), [[quarkdown]] (Markdown 排版系统支持演示)
+- 辅助: [[architecture-diagram-generator]] (Slides 配图), [[sensenova-image-api]] (2752x1536 PPT 封面), [[ian-xiaohei-illustrations]] (不适合传统 PPT 信息图), [[howskills]] (PPT 身份锚点模式), [[jim-liu]] (AI 内容工具链含 PPT)
+- 未新建页面（纯检索查询，均已有实体）
