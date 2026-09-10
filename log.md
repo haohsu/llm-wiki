@@ -314,3 +314,9 @@
 - Rewrote: concepts/llm-trading-ecosystem.md — 四层框架（Agents/MCPs/Skills/Benchmarks）、诚实评估（StockBench、AMA、LAP test、Deflated Sharpe/PBO）、A 股 MCP 生态（FinanceMCP/mcp-aktools/TradingAgents-MCPmode）、金融推理 LLM 族（Fin-R1/Fino1/DianJin-R1/Agentar-Fin-R1）
 - Updated: entities/trading-agents.md — star 57.8k→104k、论文 arXiv 2412.20138、新增 StockBench 结论
 - Updated index with 5 new entity summaries (Total pages: 81→86)
+
+## [2026-09-10] create | A 股交易决策技术路线
+- 综合 llm-trading-ecosystem 生态知识 + 两个 awesome list 原始分析，非单一来源 ingest
+- Created: concepts/a-share-trading-tech-routes.md — 五条路线（传统多因子 A / ML 预测 B / RL C / LLM 多智能体 D / LLM×量化混合 E）+ A 股结构约束（T+1、涨跌停、散户主导、程序化新规）
+- 结论推荐：E 为主轴，D（多智能体）改造成研究层，ML 做预测补充；直接 LLM 自动下单不推荐
+- Updated index with summary entry under "Concepts" (Total pages: 86→87)

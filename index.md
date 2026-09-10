@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-10 | Total pages: 86
+> Last updated: 2026-09-10 | Total pages: 87
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -95,6 +95,7 @@
 - [[karpathy-inspired-claude-code-guidelines]] — 基于 Karpathy 观察的 Claude Code 四大行为原则
 - [[agents-as-customers]] — Agent 从工具进化为独立客户实体，自主注册/付费/部署
 - [[llm-trading-ecosystem]] — LLM 交易 Agent 生态（四层：Agents/MCPs/Skills/Benchmarks）：TradingAgents 104k、ai-hedge-fund 63k、TradingAgents-CN 31.7k，诚实评估（StockBench 大多跑不赢 buy-and-hold）与 A 股数据源
+- [[a-share-trading-tech-routes]] — A 股交易决策技术路线：五条路线（多因子/ML/RL/LLM 多智能体/LLM×量化混合）取舍，推荐 LLM 做研究层 + 量化执行
 
 ## Comparisons
 
