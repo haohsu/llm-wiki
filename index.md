@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-09 | Total pages: 81
+> Last updated: 2026-09-10 | Total pages: 86
 
 ## Entities
 - [[agents-md]] — 项目根目录的通用 Agent 指令格式标准
@@ -64,7 +64,12 @@
 - [[soccerdata]] — Python 足球数据采集库，8 个数据源（FBref/Transfermarkt/Understat 等），统一 pandas DataFrame 接口，活跃维护
 - [[seo-audit-skill]] — Script + LLM 双层架构的单页面 SEO 审计 Agent 技能，20+ 检查项
 - [[seedance-product-video]] — Seedance 2.0 产品宣传视频提示词技能，4 种美学风格，15 秒一镜到底 motion graphics
-- [[trading-agents]] — 多智能体 LLM 金融交易框架，57k stars
+- [[trading-agents]] — 多智能体 LLM 金融交易框架鼻祖，104k stars，LangGraph 辩论架构
+- [[ai-hedge-fund]] — LLM 驱动的美股交易框架，14 位传奇投资人 persona 联合决策，63k stars
+- [[fingpt]] — AI4Finance 开源金融 LLM 微调栈（FinLLM toolkit），21k stars，FinRobot 的上游底座
+- [[finrobot]] — AI4Finance 开源金融 AI Agent 平台，学术风格股票研报，7.9k stars
+- [[trading-agents-ashare]] — TradingAgents 的 A 股重写版：15 Agent + 可视化 UI + Docker 一键部署
+- [[trading-agents-cn]] — TradingAgents 中文 A 股 fork：Tushare/AkShare 数据源 + 中文报告 + A 股监管语境，31.7k stars
 - [[ui-ux-pro-max]] — AI 编程设计智能系统，67 种 UI 风格 + 161 条行业推理规则，76k stars
 - [[video-use]] — Browser Use 团队的 Claude Code 视频剪辑技能，自然语言驱动自动剪辑，7k+ stars
 - [[vibe-coding-cn]] — AI 编程方法论指南，道法术器四层体系 + 提示词库 + Skills 框架，20k stars
@@ -89,7 +94,7 @@
 - [[ai-knowledge-graph-project-innovation]] — AI + 知识图谱驱动项目创新方案（7 个场景 + 路线图）
 - [[karpathy-inspired-claude-code-guidelines]] — 基于 Karpathy 观察的 Claude Code 四大行为原则
 - [[agents-as-customers]] — Agent 从工具进化为独立客户实体，自主注册/付费/部署
-- [[llm-trading-ecosystem]] — LLM 交易 Agent 生态盘点：ai-hedge-fund、TradingAgents-CN/AShare、FinRobot、FinRL 等，含已知局限与 A 股数据源衔接
+- [[llm-trading-ecosystem]] — LLM 交易 Agent 生态（四层：Agents/MCPs/Skills/Benchmarks）：TradingAgents 104k、ai-hedge-fund 63k、TradingAgents-CN 31.7k，诚实评估（StockBench 大多跑不赢 buy-and-hold）与 A 股数据源
 
 ## Comparisons
 

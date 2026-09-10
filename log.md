@@ -301,3 +301,16 @@
 - 核心编译: [[marp]] (Markdown 写 PPT, 导出 PDF/PPTX/HTML), [[huashu-design]] (HTML deck + 可编辑 PPTX), [[baoyu-skills]] 的 baoyu-slide-deck (自动合并 .pptx/.pdf), [[quarkdown]] (Markdown 排版系统支持演示)
 - 辅助: [[architecture-diagram-generator]] (Slides 配图), [[sensenova-image-api]] (2752x1536 PPT 封面), [[ian-xiaohei-illustrations]] (不适合传统 PPT 信息图), [[howskills]] (PPT 身份锚点模式), [[jim-liu]] (AI 内容工具链含 PPT)
 - 未新建页面（纯检索查询，均已有实体）
+
+## [2026-09-10] query | 股票相关话题
+- 检索 index + 全文搜索（股票/交易/trading/stock/证券/投资/A股/美股）
+- 命中 3 个页面：[[trading-agents]]、[[llm-trading-ecosystem]]、[[public-apis]]
+- 未建档（简单查询，答案可从 index 直接复现）
+
+## [2026-09-10] ingest | LLM 交易 Agent 生态深挖（两个 awesome list 原文）
+- Source: LLMQuant/awesome-trading-agents (★448) + bettyguo/awesome-llm-trading-agents (★5) README 原文归档
+- Added raw: raw/articles/awesome-trading-agents.md (37KB), raw/articles/awesome-llm-trading-agents.md (45KB)
+- Created (中文): entities/ai-hedge-fund.md, entities/trading-agents-cn.md, entities/trading-agents-ashare.md, entities/finrobot.md, entities/fingpt.md
+- Rewrote: concepts/llm-trading-ecosystem.md — 四层框架（Agents/MCPs/Skills/Benchmarks）、诚实评估（StockBench、AMA、LAP test、Deflated Sharpe/PBO）、A 股 MCP 生态（FinanceMCP/mcp-aktools/TradingAgents-MCPmode）、金融推理 LLM 族（Fin-R1/Fino1/DianJin-R1/Agentar-Fin-R1）
+- Updated: entities/trading-agents.md — star 57.8k→104k、论文 arXiv 2412.20138、新增 StockBench 结论
+- Updated index with 5 new entity summaries (Total pages: 81→86)

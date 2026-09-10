@@ -10,8 +10,9 @@ sources: [raw/articles/jike-github-trending-2026-05-01.md]
 # TradingAgents
 
 - **GitHub**: https://github.com/TauricResearch/TradingAgents
-- **Stars**: 57,850
-TradingAgents 是一个基于多智能体 LLM 的金融交易框架，模拟真实交易公司的运作，提供多种专业代理协作分析市场并指导交易决策。
+- **Stars**: 104,390（2026-09 快照；2026-05 时 57.8k）
+- **论文**: arXiv 2412.20138（2024）
+TradingAgents 是一个基于多智能体 LLM 的金融交易框架，模拟真实交易公司的运作，提供多种专业代理协作分析市场并指导交易决策。它是这个领域的**锚点项目**（73.7k★@2026-05，作为 awesome-llm-trading-agents 的"Anchor project of the category"）。
 
 ## 核心特性
 
@@ -27,4 +28,4 @@ TradingAgents 是一个基于多智能体 LLM 的金融交易框架，模拟真�
 
 ## 同类项目与生态
 
-完整生态盘点见 [[llm-trading-ecosystem]]。要点：同类中最知名的是 virattt/ai-hedge-fund（~59k stars，投资人 persona 辩论）；A 股场景有 TradingAgents-CN（Tushare/AkShare 数据源）和 TradingAgents-AShare（15 Agent + UI）两个衍生版。已知局限：LLM 训练集泄漏、回测池小、新闻延迟 → 定位 swing/波段研究辅助，非自动盈利系统。
+完整生态盘点见 [[llm-trading-ecosystem]]。要点：同类中最知名的是 [[ai-hedge-fund]]（63k stars，投资人 persona 辩论）；A 股场景有 [[trading-agents-cn]]（31.7k stars，Tushare/AkShare 数据源）和 [[trading-agents-ashare]]（15 Agent + UI）两个衍生版。已知局限：LLM 训练集泄漏、回测池小、新闻延迟（详见生态页"诚实评估"一节）；StockBench 基准显示主流 LLM agent 大多跑不赢 buy-and-hold。
